@@ -68,9 +68,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Demo link is coming soon](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,6 +80,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- You need to have NodeJS installed
 - A Web Browser (Google Chrome, Firefox, etc)
 - A Code Editor (Notepad++, VSCode, etc)
 
@@ -89,17 +88,25 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
+```
+git clone yourlink repo https://github.com/WilfriedM01/Hello-Microverse.git
+
+cd your folder name
+```
+
 ### Install
 
 Install this project with:
 
-Nothing is required to install this project...
+```
+npm install
+```
 
 ### Usage
 
 To run the project, execute the following command:
 
-Double-clic on the index file (index.html)
+Double-click on the index file (index.html)
 
 ### Run tests
 
@@ -127,7 +134,7 @@ Deploy this project on any websever
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **N/A**
+- [ ] **Add a hello animated illustration**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,16 +157,6 @@ If you like this project give me a star.
 I would like to thank every who continues supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
